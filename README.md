@@ -3,6 +3,8 @@ record for adjusting max96717f and max96724f
 tunneling mode:  
 architecture:  
 
+Video Pipe Selection Block Diagram:  
+![alt text](https://github.com/joshuahwfwEE/mipi-gmsl-config/blob/main/gmsl_link2video_pipe_sel.png?raw=true)  
 phy selection for mapping:  
 we are using pipe2 map to controller2, pipe3 map to controller3  
 ![alt text](https://github.com/joshuahwfwEE/mipi-gmsl-config/blob/main/4x2_mode_phy_sel.png?raw=true)  
